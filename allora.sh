@@ -22,7 +22,7 @@ nano config.json
 {
     "wallet": {
         "addressKeyName": "testkey",
-        "addressRestoreMnemonic": "Seed Phrase",
+        "addressRestoreMnemonic": "confirm soldier loud damage enter estate alter actress initial impact sheriff clown pioneer lobster where length absorb muffin asthma absorb gesture debris ill smart",
         "alloraHomeDir": "",
         "gas": "1000000",
         "gasAdjustment": 1.0,
